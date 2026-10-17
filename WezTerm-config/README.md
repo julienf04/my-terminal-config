@@ -71,7 +71,7 @@ For a full list of shortcuts, check out the [WezTerm Default Keybindings documen
 
 1. Install the latest stable version of [WezTerm](https://wezterm.org/installation.html "WezTerm") if you don't already have it.
 
-2. Download the `.wezterm.lua` file and place it in your home directory:
+2. Download the [`.wezterm.lua`](.wezterm.lua) file and place it in your home directory:
 
     <details>
     <summary><i>Windows</i></summary>
@@ -104,7 +104,7 @@ For a full list of shortcuts, check out the [WezTerm Default Keybindings documen
 
 By default, WezTerm opens your local machine's shell. If you are on Windows and want **WSL (Ubuntu)** to open automatically as your default environment:
 
-1. Open your `.wezterm.lua` file and locate the **Environment** section.
+1. Open your [`.wezterm.lua`](.wezterm.lua) file and locate the **Environment** section.
 
 2. Uncomment the following line:
    ```lua
@@ -121,7 +121,7 @@ My personal setup includes a custom [background image](chill-guy.png). Because f
 
 1. Download the image and save it anywhere on your computer.
 
-2. Open your `.wezterm.lua` file and navigate to **Color and Appearance** $\rightarrow$ **Background image** section.
+2. Open your [`.wezterm.lua`](.wezterm.lua) file and navigate to **Color and Appearance** $\rightarrow$ **Background image** section.
 
 3. Uncomment and update this line with the absolute path to your downloaded image:
 
