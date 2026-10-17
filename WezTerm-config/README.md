@@ -121,7 +121,7 @@ My personal setup includes a custom [background image](chill-guy.png). Because f
 
 1. Download the image and save it anywhere on your computer.
 
-2. Open your `.wezterm.lua` file and navigate to **Color and Appearance** $\rightarrow$ **Background Image** section.
+2. Open your `.wezterm.lua` file and navigate to **Color and Appearance** $\rightarrow$ **Background image** section.
 
 3. Uncomment and update this line with the absolute path to your downloaded image:
 
