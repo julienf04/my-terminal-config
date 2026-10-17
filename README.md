@@ -1,3 +1,23 @@
+# ⚠️ Repository in construction ⚠️
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
 # What is this?
 
 This is my whole terminal setup — simple as that.
