@@ -10,7 +10,7 @@ This is my WezTerm configuration — simple as that.
 
 Visual preferences and styling options for the terminal interface:
 * **Typography:** Uses *JetBrains Mono* at size 12 with ligatures disabled (`calt=0`, `clig=0`, `liga=0`).
-* **Scrollback:** Keeps a history buffer of 10,000 lines per pane.
+* **Scrollback:** Keeps a history buffer of 10 000 lines per pane.
 * **Inactive Panes:** Applies custom dimming (`inactive_pane_hsb`) to non-active panes.
 
 
@@ -56,7 +56,8 @@ These aren't part of my custom config. They are built-in WezTerm defaults, but t
 | `Ctrl +Shift + u` | Opens the emoji picker |
 
 
-> 💡 **Quick Tip:** As a general rule in this config, **`Alt`** is used for managing panes, while **`Shift`** is used for managing tabs.
+> [!TIP]
+> As a general rule in this config, **`Alt`** is used for managing panes, while **`Shift`** is used for managing tabs.
 
 
 
@@ -74,21 +75,24 @@ For a full list of shortcuts, check out the [WezTerm Default Keybindings documen
 
     <details>
     <summary><i>Windows</i></summary>
-    Place it here: `C:\Users\<YourUser>\.wezterm.lua`  
-    *(Replace `<YourUser>` with your actual username)*
+
+    > Place it here: `C:\Users\<YourUser>\.wezterm.lua` *(Replace `<YourUser>` with your actual username)*
+
     </details>
 
     <details>
     <summary><i>Linux</i></summary>
-    Place it here: `~/.wezterm.lua`
+
+    > Place it here: `~/.wezterm.lua`
+    
     </details>
 
     <details>
     <summary><i>macOS</i></summary>
-    Place it here: `/Users/<YourUser>/.wezterm.lua`  
-    *(Replace `<YourUser>` with your actual username)*
+
+    > Place it here: `/Users/<YourUser>/.wezterm.lua` *(Replace `<YourUser>` with your actual username)*
+
     </details>
-    <br/>
 
 3. That's it, enjoy!
 
@@ -113,7 +117,7 @@ If you use a different Linux distribution or prefer the standard local terminal,
 
 ### Background image
 
-My personal setup includes a custom background image (chill-guy.png). Because file paths vary per computer, you will need to configure this manually if you want to use it:
+My personal setup includes a custom [background image](chill-guy.png). Because file paths vary per computer, you will need to configure this manually if you want to use it:
 
 1. Download the image and save it anywhere on your computer.
 
@@ -125,7 +129,11 @@ My personal setup includes a custom background image (chill-guy.png). Because fi
     config.window_background_image = '/absolute/path/to/your/chill-guy.png'
     ```
 
----
+
+
+### Want to Learn More?
+
+For more details on how WezTerm handles configurations, check out the official [WezTerm config documentation](https://wezterm.org/config/files.html).
 
 
 
