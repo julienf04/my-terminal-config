@@ -133,7 +133,7 @@ My personal setup includes a custom [background image](chill-guy.png). Because f
 
 ### Want to Learn More?
 
-For more details on how WezTerm handles configurations, check out the official [WezTerm config documentation](https://wezterm.org/config/files.html).
+For more details on how WezTerm handles configs, check out the official [WezTerm config documentation](https://wezterm.org/config/files.html).
 
 
 
