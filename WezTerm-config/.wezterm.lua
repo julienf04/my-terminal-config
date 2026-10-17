@@ -45,8 +45,8 @@ config.window_background_image_hsb = {
 
 -- Don't merge characters into a single one (example don't merge >= into the mathematical representation)
 config.font = wezterm.font {
-   family = 'JetBrains Mono',
-   harfbuzz_features = { 'calt=0', 'clig=0', 'liga=0' },
+  family = 'JetBrains Mono',
+  harfbuzz_features = { 'calt=0', 'clig=0', 'liga=0' },
 }
 
 -- The number of lines that WezTerm will remember per pane (15-30 MB of RAM per 10.000 lines).
