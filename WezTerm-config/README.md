@@ -53,7 +53,7 @@ These aren't part of my custom config. They are built-in WezTerm defaults, but t
 | `Ctrl + 0` | Resets the font size to the default |
 | `Ctrl + Shift + Number 1-8` | Navigates to the corresponding tab (1–8) |
 | `Ctrl + Shift + 9` | Navigates to the last tab |
-| `Ctrl +Shift + u` | Opens the emoji picker |
+| `Ctrl + Shift + u` | Opens the emoji picker |
 
 
 > [!TIP]
