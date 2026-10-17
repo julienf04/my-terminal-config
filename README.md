@@ -27,7 +27,7 @@ This is my whole terminal setup — simple as that.
 
 ## What software do I use?
 
-- Windows is my main operating system, with the [WSL](https://learn.microsoft.com/windows/wsl/about "WSL") (Windows Subsystem for Linux) serving as my main Linux environment. WSL mounts the Windows drives, allowing me to work seamlessly with both Linux and Windows files. I use Ubuntu inside WSL, but the Linux distribution isn't particullary important.
+- Windows is my main operating system, with the [WSL](https://learn.microsoft.com/windows/wsl/about "WSL") (Windows Subsystem for Linux) serving as my main Linux environment. WSL mounts the Windows drives, allowing me to work seamlessly with both Linux and Windows files. I use Ubuntu inside WSL, although the Linux distribution isn't particullary important.
 
 - [WezTerm](https://wezterm.org/ "WezTerm") is my main terminal emulator.
 
