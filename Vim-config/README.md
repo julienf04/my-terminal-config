@@ -15,6 +15,7 @@ My Vim config is designed to be as portable and minimalist as possible: complete
 - **Usability:** Enables full mouse support, extended undo history, and intuitive backspace behavior.
 
 
+
 ## Setup step by step
 
 1. Install Vim in your terminal if you don't already have it. I recommend installing it using your system's package manager. You can search for a tutorial to do this.
