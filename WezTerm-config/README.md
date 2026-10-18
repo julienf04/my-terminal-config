@@ -9,7 +9,7 @@ This is my WezTerm configuration — simple as that.
 ### Color and appearance
 
 Visual preferences and styling options for the terminal interface:
-* **Typography:** Uses *JetBrains Mono* at size 12 with ligatures disabled (`calt=0`, `clig=0`, `liga=0`).
+* **Typography:** Uses *JetBrains Mono* at size 12 with ligatures disabled.
 * **Scrollback:** Keeps a history buffer of 10 000 lines per pane.
 * **Inactive Panes:** Applies custom dimming (`inactive_pane_hsb`) to non-active panes.
 
@@ -90,7 +90,7 @@ For a full list of shortcuts, check out the [WezTerm Default Keybindings documen
     <details>
     <summary><i>macOS</i></summary>
 
-    > Place it here: `/Users/<YourUser>/.wezterm.lua` *(Replace `<YourUser>` with your actual username)*
+    > Place it here: `~/.wezterm.lua`
 
     </details>
 
