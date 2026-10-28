@@ -1,28 +1,8 @@
-# ⚠️ Repository under construction ⚠️
-
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
-
 # What is this?
 
 This is my whole terminal setup — simple as that.
 
-(image of the terminal)
+![My terminal screenshot](assets/my-terminal-screenshot.png)
 
 
 ## What software do I use?
@@ -41,11 +21,11 @@ I have preferences mainly about the key bindings. I prefer Windows key bidings i
 
 # My terminal setup
 
-- WezTerm (link to the README.md of the WezTerm config)
+- [WezTerm](WezTerm-config/README.md)
 
-- Vim (link to the README.md of the Vim config)
+- [Vim](Vim-config/README.md)
 
-- Neovim (link to the README.md of the Neovim config)
+- [Neovim](Neovim-config/README.md)
 
 
 ## Setup step by step
@@ -54,15 +34,15 @@ If you want to have my exact setup, follow the next steps. The only requisite is
 
 1. If you are on Windows, I recommend installing the latest stable version of [WSL](https://learn.microsoft.com/windows/wsl/install "WSL") if you don't already have it, and setting up a virtual Linux environment. You can search for a tutorial to do this. If you are using Linux or MacOS, you can skip this step.
 
-2. Follow these steps to setup my WezTerm config. (link to the README.md of the WezTerm config)
+2. [Follow these steps to setup my WezTerm config](WezTerm-config/README.md).
 
-3. Follow these steps to setup my Vim config. (link to the README.md of the Vim config)
+3. [Follow these steps to setup my Vim config](Vim-config/README.md).
 
-4. Follow these steps to setup my Neovim config. (link to the README.md of the Neovim config)
+4. [Follow these steps to setup my Neovim config](Neovim-config/README.md).
 
 5. There you go, enjoy!
 
 
 ## Why did I decide to set up my config this way?
 
-If you want to know the 'why' behind my setup and decision-making, read this discussion. (in word 'discussion', link to the discussion.md file that explain the decision-making)
+If you want to know the 'why' behind my setup and decision-making, read this [discussion](Discussion/README.md).

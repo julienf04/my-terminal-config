@@ -1,12 +1,12 @@
-# My WezTerm config
+# My Vim config
 
-This is my Vim configuration — simple as that.
+This is my [Vim](https://www.vim.org/) configuration — simple as that.
 
 
 
 ## Config
 
-My Vim config is designed to be as portable and minimalist as possible: completely plugin-free with only general settings.
+My Vim config is designed to prioritize feature-rich functionality, even if it means sacrificing some portability, minimalism, and speed.
 
 - **Editor & Visuals:** Displays line numbers, a persistent tab bar, and clean line wrapping.
 
@@ -44,3 +44,9 @@ My Vim config is designed to be as portable and minimalist as possible: complete
     </details>
 
 3. That's it, enjoy!
+
+
+
+## Why Vim?
+
+If you want to know the 'why' behind my Vim config and decision-making, read this [discussion](../Discussion/README.md).

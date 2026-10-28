@@ -1,6 +1,6 @@
 # My WezTerm config
 
-This is my WezTerm configuration — simple as that.
+This is my [WezTerm](https://wezterm.org/) configuration — simple as that.
 
 
 
@@ -139,4 +139,4 @@ For more details on how WezTerm handles configs, check out the official [WezTerm
 
 ## Why WezTerm?
 
-If you want to know the 'why' behind my WezTerm config and decision-making, read this discussion. (in word 'discussion', link to the discussion.md file that explain the decision-making)
+If you want to know the 'why' behind my WezTerm config and decision-making, read this [discussion](../Discussion/README.md).
